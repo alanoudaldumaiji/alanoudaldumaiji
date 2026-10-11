@@ -18,7 +18,7 @@ My interests include cybersecurity, information systems, risk management, and di
 
 **Security Tools**
 - Kali Linux
-- Nmap & Zenmap
+- Nmap 
 - Nmap Scripting Engine (NSE)
 
 **Programming & Systems**
