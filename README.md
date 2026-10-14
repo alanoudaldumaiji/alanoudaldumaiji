@@ -8,28 +8,27 @@
 
 💼 Seeking Cooperative Training (COOP) opportunities in Cybersecurity, Information Technology, Business Analysis, and Digital Transformation.
 
-I'm passionate about combining technology, security, and business strategy to solve real-world challenges. My academic projects and professional experience have allowed me to explore cybersecurity, systems analysis, enterprise architecture, database design, and IT project management.
+I'm passionate about combining technology, security, and business strategy to solve real-world challenges. Through academic projects and professional experience, I've explored cybersecurity, systems analysis, enterprise architecture, database design, and IT project management.
 
 ---
 
 ## 💻 Technical Skills
 
-**Cybersecurity & Networking**
+### Cybersecurity & Networking
 - Network Security
 - Network Scanning & Enumeration
 - Vulnerability Assessment
 - Security Risk Management
 - Kali Linux, Nmap & Zenmap
 
-**Programming & Information Systems**
-- Java
-- SQL
+### Programming & Information Systems
+- Java & SQL
 - Database Design
 - Systems Analysis & Design
 - Requirements Engineering
 - UML Modeling
 
-**Business & Project Management**
+### Business & Project Management
 - Business Process Management
 - Enterprise Architecture & TOGAF
 - Business Analysis
@@ -42,6 +41,7 @@ I'm passionate about combining technology, security, and business strategy to so
 ## 🚀 Featured Projects
 
 ### 🔐 [Cybersecurity Hands-on Labs](https://github.com/alanoudaldumaiji/Cybersecurity-Labs)
+
 **Penetration Testing & Ethical Hacking | CYS405**
 
 Hands-on cybersecurity exercises conducted in authorized lab environments.
@@ -52,6 +52,7 @@ Hands-on cybersecurity exercises conducted in authorized lab environments.
 - Technical documentation of findings
 
 ### 💻 [Restaurant Ordering System](https://github.com/alanoudaldumaiji/Restaurant-Ordering-System)
+
 **Web Development & Database Management | Academic Team Project**
 
 Academic restaurant ordering system project covering:
@@ -62,7 +63,8 @@ Academic restaurant ordering system project covering:
 - CRUD operations and order management
 - System integration and testing
 
-### 🏢 [STC Enterprise Architecture](https://github.com/alanoudaldumaiji/STC-Enterprise-Architecture)
+### 🏢 [STC Enterprise Architecture](https://github.com/alanoudaldumaiji/STC-Enterprise-Architecture-)
+
 **Enterprise Architecture | Academic Case Study**
 
 - TOGAF Architecture Development Method (ADM)
@@ -71,7 +73,8 @@ Academic restaurant ordering system project covering:
 - Proposed To-Be Architecture
 - Digital Transformation Recommendations
 
-### 🏟️ [Sports Spot – Sports Booking System](https://github.com/alanoudaldumaiji/Sport-Booking-System-Analysis)
+### 🏟️ [Sports Spot – Sports Booking System](https://github.com/alanoudaldumaiji/Sport-Booking-System-Analysis-)
+
 **Systems Analysis & Design | Academic Team Project**
 
 Proposed sports booking platform featuring:
@@ -84,7 +87,8 @@ Proposed sports booking platform featuring:
 
 🎥 [Watch Project Presentation](https://youtu.be/gF7wEqsis5U)
 
-### 📊 [Saudi Aramco Business Process Management](https://github.com/alanoudaldumaiji/Aramco-Business-Process-Management)
+### 📊 [Saudi Aramco Business Process Management](https://github.com/alanoudaldumaiji/Aramco-Business-Process-Management-)
+
 **Business Process Management | Academic Case Study**
 
 - Supply Chain Process Analysis
@@ -93,7 +97,8 @@ Proposed sports booking platform featuring:
 - RFID and Real-Time Tracking Proposals
 - KPI Dashboards and Digital Transformation Concepts
 
-### 🤖 [AI-Powered Task Organizer](https://github.com/alanoudaldumaiji/AI-Powered-Task-Organizer)
+### 🤖 [AI-Powered Task Organizer](https://github.com/alanoudaldumaiji/AI-Powered-Task-Organizer-)
+
 **IT Project Management | Academic Team Project**
 
 Project management case study covering:
@@ -110,6 +115,7 @@ Project management case study covering:
 ## 🎓 Senior Project
 
 ### Digital Cooperative Training Management System
+
 **Prince Sultan University | Ongoing**
 
 Contributing to the analysis and development of a centralized platform designed to digitize and streamline cooperative training processes for students, supervisors, and university coordinators.
@@ -128,6 +134,7 @@ Contributing to the analysis and development of a centralized platform designed 
 ## 💼 Professional Experience
 
 ### Cyber City for Information Technology LLC
+
 **Administrative Assistant | Sep 2024 – Aug 2026**
 
 Supported administrative operations, meeting coordination, documentation, and project-related follow-ups within an information technology environment.
@@ -142,11 +149,13 @@ Gained exposure to enterprise technology initiatives, including:
 ## 🌟 Leadership & Activities
 
 ### Head of Project Management
+
 **AI Club | Prince Sultan University | 2025**
 
 Supported project coordination, planning activities, and technology-related initiatives.
 
 ### Career Expo 2025 – Volunteer
+
 **Prince Sultan University**
 
 Contributed to event coordination and operations during a three-day career event attended by over 1,000 visitors.
